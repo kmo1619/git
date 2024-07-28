@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "무제 폴더/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "무제 폴더/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "무제 폴더/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "무제 폴더/무제 파일.md"
               }
             }
           }
@@ -150,9 +150,18 @@
   "lastOpenFiles": [
     "무제 폴더/무제 파일 1.md",
     "무제 폴더/무제 파일.md",
+    "README.md",
+    "git/README.md",
+    "git/1. 시작하기/6. 시작하기.md",
+    "git/1. 시작하기/5. Git 최초 설정.md",
+    "git/1. 시작하기/4. Git 설치.md",
+    "git/1. 시작하기/3. Git 기초.md",
+    "git/1. 시작하기/2. Git의 역사(중요x).md",
+    "git/1. 시작하기/1. 버전 관리란.md",
+    "git/1. 시작하기",
+    "git",
     "무제 파일.md",
     "무제 폴더",
-    "README.md",
     "1. 시작하기/6. 시작하기.md",
     "1. 시작하기/2. Git의 역사(중요x).md"
   ]

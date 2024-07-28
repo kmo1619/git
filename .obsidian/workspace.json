@@ -11,12 +11,8 @@
             "id": "13d5ac7252ce63a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 폴더/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 폴더/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 폴더/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "무제 폴더/무제 파일.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,16 @@
   },
   "active": "13d5ac7252ce63a1",
   "lastOpenFiles": [
-    "무제 폴더/무제 파일 1.md",
     "무제 폴더/무제 파일.md",
+    "무제 폴더/무제 파일 1.md",
+    "무제 폴더",
+    "git",
+    "2. Git의 기초/무제 파일 1.md",
+    "2. Git의 기초/무제 파일.md",
+    "2. Git의 기초",
+    "2/무제 파일 1.md",
+    "2/무제 파일.md",
+    "2",
     "README.md",
     "git/README.md",
     "git/1. 시작하기/6. 시작하기.md",
@@ -159,9 +159,7 @@
     "git/1. 시작하기/2. Git의 역사(중요x).md",
     "git/1. 시작하기/1. 버전 관리란.md",
     "git/1. 시작하기",
-    "git",
     "무제 파일.md",
-    "무제 폴더",
     "1. 시작하기/6. 시작하기.md",
     "1. 시작하기/2. Git의 역사(중요x).md"
   ]
